@@ -32,7 +32,7 @@ public class Test_Gmail_login {
 		driver.findElement(By.name("password")).sendKeys(password);
 		mail.click_next();
 		Thread.sleep(3000);
-		driver.quit();
+		driver.close();
 		
 		
 	}	
