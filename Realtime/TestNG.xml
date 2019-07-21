@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="example suite 1" verbose="1" >
+  <test name="Test Cases" >
+    <classes>
+      
+     <class name="Testcases.Test_Gmail_login"/>
+      
+    </classes>
+ </test>
+</suite>
