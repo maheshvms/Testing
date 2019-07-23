@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="example suite 1" duration-ms="44465" started-at="2019-07-08T21:13:48Z" finished-at="2019-07-08T21:14:33Z">
+    <groups>
+    </groups>
+    <test name="Mahesh Test Scripts" duration-ms="44465" started-at="2019-07-08T21:13:48Z" finished-at="2019-07-08T21:14:33Z">
+      <class name="smoketest.Guestorder">
+        <test-method status="PASS" signature="test_Guestorder()[pri:0, instance:smoketest.Guestorder@1b0375b3]" name="test_Guestorder" duration-ms="44452" started-at="2019-07-09T02:43:48Z" finished-at="2019-07-09T02:44:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Guestorder -->
+      </class> <!-- smoketest.Guestorder -->
+    </test> <!-- Mahesh Test Scripts -->
+  </suite> <!-- example suite 1 -->
+</testng-results>

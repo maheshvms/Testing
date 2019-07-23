@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" verbose="0" name="Failed suite [example suite 1]" parallel="classes">
+  <test name="Mahesh Test Scripts(failed)" parallel="classes">
+    <classes>
+      <class name="smoketest.Guestorder">
+        <methods>
+          <include name="test_Guestorder"/>
+        </methods>
+      </class> <!-- smoketest.Guestorder -->
+    </classes>
+  </test> <!-- Mahesh Test Scripts(failed) -->
+</suite> <!-- Failed suite [example suite 1] -->
