@@ -29,6 +29,7 @@ public class Guestorder {
         guest.selection1_click();
 		Thread.sleep(3000);
 		guest.Select_mauverose();
+		driver.close();
 		
 	}
 
